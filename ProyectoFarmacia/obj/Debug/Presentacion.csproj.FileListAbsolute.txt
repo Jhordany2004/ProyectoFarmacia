@@ -1,0 +1,144 @@
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe.config
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.pdb
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Inicio.resources
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Login.resources
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Properties.Resources.resources
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.exe
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.pdb
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Compra.resources
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Encargado.resources
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Medicamentos.resources
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Proovedor.resources
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Usuarios.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe.config
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.pdb
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Compra.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Encargado.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Inicio.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Login.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Medicamentos.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Proovedor.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Usuarios.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Properties.Resources.resources
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.exe
+C:\Users\USER\OneDrive\Escritorio\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.pdb
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe.config
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.pdb
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Compra.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Encargado.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Inicio.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Inventario_Med.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Login.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Medicamentos.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Proovedor.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Usuarios.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Properties.Resources.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Suministra.resources
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.exe
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.pdb
+C:\Users\marko\Downloads\ProyectoFarmacia\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Contener.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe.config
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.pdb
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\FontAwesome.Sharp.dll
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.CompraMedicamentos.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Contener.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Encargado.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Inicio.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Inventario_Med.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Login.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Medicamentos.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Proovedor.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Usuarios.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Venta.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Properties.Resources.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Suministra.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.exe
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe.config
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Encargado.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Inicio.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Inventario_Med.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Login.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Medicamentos.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Proovedor.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Venta.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Properties.Resources.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Suministra.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.exe
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Afiliados.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.ConsultaAfiliados.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.ConsultaAfiliados.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.ConsultarEmpleado.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Consultar.resources
+D:\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Afiliados.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe.config
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.pdb
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaEntidad.dll
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaLogica.dll
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\FontAwesome.Sharp.dll
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaDatos.dll
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaEntidad.pdb
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaLogica.pdb
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaDatos.pdb
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Afiliados.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.ConsultaAfiliados.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.ConsultarEmpleado.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Venta.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.CompraMedicamentos.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Consultar.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Contener.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Encargado.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Inicio.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Inventario_Med.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Login.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Medicamentos.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Proovedor.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.Usuarios.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Properties.Resources.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Suministra.resources
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\Presentacion.csproj.CopyComplete
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.exe
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaLogica.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaLogica.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.ConsultarEncargado.resources
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Forms.ConsultarMedicamentos.resources

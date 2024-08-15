@@ -1,0 +1,12 @@
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe.config
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.pdb
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.csproj.AssemblyReference.cache
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Properties.Resources.resources
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.csproj.GenerateResource.cache
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.csproj.CopyComplete
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.exe
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.pdb
+C:\Users\Jhordany\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Inicio.resources

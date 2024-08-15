@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|c:\\users\\jhordany\\onedrive - universidad privada del norte\\documentouni\\upn\\upn 2023\\ciclo 5\\base de datos\\proyectofinalbd\\proyectofarmacia\\proyectofarmacia\\forms\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\suministra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\suministra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\inventario_med.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\inventario_med.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A769AD-551B-4CFB-A893-295200EDFBC2}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A769AD-551B-4CFB-A893-295200EDFBC2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\suministra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\suministra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\afiliados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\afiliados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\afiliados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\afiliados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DFB2A9-D58B-46DE-9E9D-1B726E0989A1}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\capaentidad\\entcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DFB2A9-D58B-46DE-9E9D-1B726E0989A1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DFB2A9-D58B-46DE-9E9D-1B726E0989A1}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DFB2A9-D58B-46DE-9E9D-1B726E0989A1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A769AD-551B-4CFB-A893-295200EDFBC2}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\capadatos\\datusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A769AD-551B-4CFB-A893-295200EDFBC2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2C364E-D010-4C12-AF9F-05776208AA7D}|CapaLogica\\CapaLogica.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\capalogica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2C364E-D010-4C12-AF9F-05776208AA7D}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\proyectofarmacia\\forms\\inventario_med.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35408E6A-4833-4EC2-9093-66934AC72642}|ProyectoFarmacia\\CapaPresentacion.csproj|solutionrelative:proyectofarmacia\\forms\\inventario_med.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DFB2A9-D58B-46DE-9E9D-1B726E0989A1}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\capaentidad\\entusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DFB2A9-D58B-46DE-9E9D-1B726E0989A1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A769AD-551B-4CFB-A893-295200EDFBC2}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A769AD-551B-4CFB-A893-295200EDFBC2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Inicio.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Inicio.cs",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Inicio.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T05:10:18.919Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Inicio.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T03:41:15.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Suministra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Suministra.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Suministra.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Suministra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Suministra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T03:40:40.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Encargado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Encargado.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Encargado.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Encargado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Encargado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-23T17:50:31.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Venta.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Venta.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Venta.cs [Design]",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Venta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:40:40.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Venta.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Venta.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Venta.cs",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Venta.cs",
+              "ViewState": "AQIAACgBAAAAAAAAAAAAwDoBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:40:41.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Proveedor.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Proveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Proveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-24T18:42:57.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T03:41:11.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventario_Med.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Inventario_Med.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Inventario_Med.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Inventario_Med.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Inventario_Med.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T03:40:40.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "datCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaDatos\\datCliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\datCliente.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaDatos\\datCliente.cs",
+              "RelativeToolTip": "CapaDatos\\datCliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:44:06.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Suministra.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Suministra.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Suministra.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Suministra.cs",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Suministra.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAL4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T03:40:41.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Proveedor.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Proveedor.cs",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Proveedor.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAIwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-25T05:02:49.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Afiliados.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Afiliados.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Afiliados.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Afiliados.cs",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Afiliados.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAAAH8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-24T18:43:07.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Afiliados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Afiliados.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Afiliados.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Afiliados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Afiliados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-24T18:43:02.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "entCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaEntidad\\entCategoria.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entCategoria.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaEntidad\\entCategoria.cs",
+              "RelativeToolTip": "CapaEntidad\\entCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:44:21.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "entCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaEntidad\\entCliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entCliente.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaEntidad\\entCliente.cs",
+              "RelativeToolTip": "CapaEntidad\\entCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:44:20.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "datUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaDatos\\datUsuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\datUsuario.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaDatos\\datUsuario.cs",
+              "RelativeToolTip": "CapaDatos\\datUsuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:44:11.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "logUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaLogica\\logUsuario.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logUsuario.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaLogica\\logUsuario.cs",
+              "RelativeToolTip": "CapaLogica\\logUsuario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:14:14.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Login.cs",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-23T16:53:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Encargado.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Encargado.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Encargado.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Encargado.cs",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Encargado.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAwwF0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-23T18:04:10.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Inventario_Med.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Inventario_Med.cs",
+              "RelativeDocumentMoniker": "ProyectoFarmacia\\Forms\\Inventario_Med.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\ProyectoFarmacia\\Forms\\Inventario_Med.cs",
+              "RelativeToolTip": "ProyectoFarmacia\\Forms\\Inventario_Med.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAwwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-18T03:40:41.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "entUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaEntidad\\entUsuario.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entUsuario.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaEntidad\\entUsuario.cs",
+              "RelativeToolTip": "CapaEntidad\\entUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:14:34.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Jhordany\\OneDrive - Universidad Privada del Norte\\DocumentoUNI\\UPN\\UPN 2023\\Ciclo 5\\Base de Datos\\ProyectoFinalBd\\ProyectoFarmacia\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:40:41.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

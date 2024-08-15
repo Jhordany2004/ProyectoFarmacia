@@ -1,0 +1,126 @@
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+D:\UPN\5 ciclo\Base de datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\Nueva carpeta\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\OneDrive\Escritorio\FARMACY\Proyecto\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\Avance\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Quinto Ciclo\Base de datos\esetesisera\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Steven\Downloads\wbada_GonzaloDaniel\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Base de Datos\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mons1\OneDrive\Escritorio\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\ProyectoFinal\ProyectoActualizado\ProyectoActualizado\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Archivos\Universidad\Ciclos\Ciclo 7\Base de Datos\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\ProyectoFinal\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\ProyectoFinalBd\Completo100%\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jhordany\OneDrive - Universidad Privada del Norte\DocumentoUNI\UPN\UPN 2023\Ciclo 5\Base de Datos\ProyectoFinalBd\ProyectoFarmacia\CapaDatos\obj\Debug\CapaDatos.pdb
